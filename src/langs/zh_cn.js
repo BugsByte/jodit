@@ -234,5 +234,11 @@ module.exports = {
 	'Start at...': '起始于...',
 	'Start numbering at': '编号起始值',
 	'Number for the first item': '第一项的编号',
-	Close: '关闭'
+	Close: '关闭',
+	'Edit attributes': '编辑属性',
+	Element: '元素',
+	'Attribute name': '属性名',
+	'Attribute value': '属性值',
+	'Add attribute': '添加属性',
+	'Invalid attribute name: %s': '无效的属性名：%s'
 };

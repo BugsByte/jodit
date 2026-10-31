@@ -243,5 +243,11 @@ module.exports = {
 	'Start at...': 'Start på...',
 	'Start numbering at': 'Start nummereringen på',
 	'Number for the first item': 'Nummer for første punkt',
-	Close: 'Lukk'
+	Close: 'Lukk',
+	'Edit attributes': 'Rediger attributter',
+	Element: 'Element',
+	'Attribute name': 'Attributtnavn',
+	'Attribute value': 'Attributtverdi',
+	'Add attribute': 'Legg til attributt',
+	'Invalid attribute name: %s': 'Ugyldig attributtnavn: %s'
 };

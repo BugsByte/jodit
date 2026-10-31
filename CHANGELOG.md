@@ -9,6 +9,12 @@
 > - :house: [Internal]
 > - :nail_care: [Polish]
 
+## Unreleased
+
+#### :rocket: New Feature
+
+- New `attributes` plugin: the **Edit attributes** button (and the `editAttributes` command) opens a dialog to change, remove and add the attributes of the element around the cursor or of one of its ancestors. It is also in the context menu of the path in the status bar. Event handler attributes (`on*`) are refused by default, see `attributesEditor.denyAttributes`.
+
 ## 4.18.12
 
 #### :bug: Bug Fix

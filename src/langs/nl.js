@@ -236,5 +236,11 @@ module.exports = {
 	'Start at...': 'Beginnen bij...',
 	'Start numbering at': 'Nummering beginnen bij',
 	'Number for the first item': 'Nummer van het eerste item',
-	Close: 'Sluiten'
+	Close: 'Sluiten',
+	'Edit attributes': 'Attributen bewerken',
+	Element: 'Element',
+	'Attribute name': 'Attribuutnaam',
+	'Attribute value': 'Attribuutwaarde',
+	'Add attribute': 'Attribuut toevoegen',
+	'Invalid attribute name: %s': 'Ongeldige attribuutnaam: %s'
 };

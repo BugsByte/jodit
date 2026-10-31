@@ -10,7 +10,11 @@
  * @module plugins/xpath
  */
 
-import type { IControlTypeStrong, IToolbarButton } from 'jodit/types';
+import type {
+	IContextMenuAction,
+	IControlTypeStrong,
+	IToolbarButton
+} from 'jodit/types';
 import { INVISIBLE_SPACE, MODE_WYSIWYG } from 'jodit/core/constants';
 import { Dom } from 'jodit/core/dom';
 import { pluginSystem } from 'jodit/core/global';
@@ -34,7 +38,7 @@ class xpath extends Plugin {
 			this.menu = new ContextMenu(this.j);
 		}
 
-		this.menu.show(event.clientX, event.clientY, [
+		const actions: IContextMenuAction[] = [
 			{
 				icon: 'bin',
 				title: bindElement === this.j.editor ? 'Clear' : 'Remove',
@@ -54,7 +58,15 @@ class xpath extends Plugin {
 					this.j.s.select(bindElement);
 				}
 			}
-		]);
+		];
+
+		/**
+		 * Lets other plugins add their own actions to the context menu
+		 * of an element of the path
+		 */
+		this.j.e.fire('xpathContextMenu', bindElement, actions);
+
+		this.menu.show(event.clientX, event.clientY, actions);
 
 		return false;
 	};

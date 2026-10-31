@@ -235,5 +235,11 @@ module.exports = {
 	'Start at...': 'Mulai dari...',
 	'Start numbering at': 'Mulai penomoran dari',
 	'Number for the first item': 'Nomor untuk item pertama',
-	Close: 'Tutup'
+	Close: 'Tutup',
+	'Edit attributes': 'Edit atribut',
+	Element: 'Elemen',
+	'Attribute name': 'Nama atribut',
+	'Attribute value': 'Nilai atribut',
+	'Add attribute': 'Tambah atribut',
+	'Invalid attribute name: %s': 'Nama atribut tidak valid: %s'
 };

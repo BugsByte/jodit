@@ -234,5 +234,11 @@ module.exports = {
 	'Start at...': '시작 번호...',
 	'Start numbering at': '번호 매기기 시작 값',
 	'Number for the first item': '첫 번째 항목의 번호',
-	Close: '닫기'
+	Close: '닫기',
+	'Edit attributes': '속성 편집',
+	Element: '요소',
+	'Attribute name': '속성 이름',
+	'Attribute value': '속성 값',
+	'Add attribute': '속성 추가',
+	'Invalid attribute name: %s': '잘못된 속성 이름: %s'
 };

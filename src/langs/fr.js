@@ -236,5 +236,11 @@ module.exports = {
 	'Start at...': 'Commencer à...',
 	'Start numbering at': 'Commencer la numérotation à',
 	'Number for the first item': 'Numéro du premier élément',
-	Close: 'Fermer'
+	Close: 'Fermer',
+	'Edit attributes': 'Modifier les attributs',
+	Element: 'Élément',
+	'Attribute name': "Nom de l'attribut",
+	'Attribute value': "Valeur de l'attribut",
+	'Add attribute': 'Ajouter un attribut',
+	'Invalid attribute name: %s': "Nom d'attribut invalide : %s"
 };

@@ -11,6 +11,7 @@
  */
 
 import 'jodit/plugins/about/about';
+import 'jodit/plugins/attributes/attributes';
 import 'jodit/plugins/add-new-line/add-new-line';
 import 'jodit/plugins/backspace/backspace';
 // import 'jodit/plugins/debug/debug';

@@ -234,5 +234,11 @@ module.exports = {
 	'Start at...': 'התחל מ...',
 	'Start numbering at': 'התחל מספור מ',
 	'Number for the first item': 'מספר הפריט הראשון',
-	Close: 'סגור'
+	Close: 'סגור',
+	'Edit attributes': 'עריכת מאפיינים',
+	Element: 'רכיב',
+	'Attribute name': 'שם המאפיין',
+	'Attribute value': 'ערך המאפיין',
+	'Add attribute': 'הוספת מאפיין',
+	'Invalid attribute name: %s': 'שם מאפיין לא חוקי: %s'
 };
