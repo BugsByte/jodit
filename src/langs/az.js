@@ -247,5 +247,11 @@ module.exports = {
 	'Start at...': 'Başlanğıc nömrəsi...',
 	'Start numbering at': 'Nömrələmənin başlanğıcı',
 	'Number for the first item': 'Birinci bəndin nömrəsi',
-	Close: 'Bağla'
+	Close: 'Bağla',
+	'Edit attributes': 'Atributları redaktə et',
+	Element: 'Element',
+	'Attribute name': 'Atributun adı',
+	'Attribute value': 'Atributun dəyəri',
+	'Add attribute': 'Atribut əlavə et',
+	'Invalid attribute name: %s': 'Yanlış atribut adı: %s'
 };

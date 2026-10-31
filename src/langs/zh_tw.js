@@ -233,5 +233,11 @@ module.exports = {
 	'Start at...': '起始於...',
 	'Start numbering at': '編號起始值',
 	'Number for the first item': '第一項的編號',
-	Close: '關閉'
+	Close: '關閉',
+	'Edit attributes': '編輯屬性',
+	Element: '元素',
+	'Attribute name': '屬性名稱',
+	'Attribute value': '屬性值',
+	'Add attribute': '新增屬性',
+	'Invalid attribute name: %s': '無效的屬性名稱：%s'
 };

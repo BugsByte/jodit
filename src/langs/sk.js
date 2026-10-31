@@ -242,5 +242,11 @@ module.exports = {
 	'Start at...': 'Začať od...',
 	'Start numbering at': 'Začať číslovanie od',
 	'Number for the first item': 'Číslo prvej položky',
-	Close: 'Zavrieť'
+	Close: 'Zavrieť',
+	'Edit attributes': 'Upraviť atribúty',
+	Element: 'Prvok',
+	'Attribute name': 'Názov atribútu',
+	'Attribute value': 'Hodnota atribútu',
+	'Add attribute': 'Pridať atribút',
+	'Invalid attribute name: %s': 'Neplatný názov atribútu: %s'
 };

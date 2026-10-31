@@ -236,5 +236,11 @@ module.exports = {
 	'Start at...': 'Kezdőszám...',
 	'Start numbering at': 'Számozás kezdőértéke',
 	'Number for the first item': 'Az első elem száma',
-	Close: 'Bezárás'
+	Close: 'Bezárás',
+	'Edit attributes': 'Attribútumok szerkesztése',
+	Element: 'Elem',
+	'Attribute name': 'Attribútum neve',
+	'Attribute value': 'Attribútum értéke',
+	'Add attribute': 'Attribútum hozzáadása',
+	'Invalid attribute name: %s': 'Érvénytelen attribútumnév: %s'
 };

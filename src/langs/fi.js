@@ -241,5 +241,11 @@ module.exports = {
 	'Start at...': 'Aloita numerosta...',
 	'Start numbering at': 'Aloita numerointi numerosta',
 	'Number for the first item': 'Ensimmäisen kohdan numero',
-	Close: 'Sulje'
+	Close: 'Sulje',
+	'Edit attributes': 'Muokkaa määritteitä',
+	Element: 'Elementti',
+	'Attribute name': 'Määritteen nimi',
+	'Attribute value': 'Määritteen arvo',
+	'Add attribute': 'Lisää määrite',
+	'Invalid attribute name: %s': 'Virheellinen määritteen nimi: %s'
 };

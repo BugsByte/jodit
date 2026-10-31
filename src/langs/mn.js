@@ -237,5 +237,11 @@ module.exports = {
 	'Start at...': 'Эхлэх дугаар...',
 	'Start numbering at': 'Дугаарлалт эхлэх',
 	'Number for the first item': 'Эхний зүйлийн дугаар',
-	Close: 'Хаах'
+	Close: 'Хаах',
+	'Edit attributes': 'Атрибут засах',
+	Element: 'Элемент',
+	'Attribute name': 'Атрибутын нэр',
+	'Attribute value': 'Атрибутын утга',
+	'Add attribute': 'Атрибут нэмэх',
+	'Invalid attribute name: %s': 'Буруу атрибутын нэр: %s'
 };

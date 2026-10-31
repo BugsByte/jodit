@@ -235,5 +235,11 @@ module.exports = {
 	'Start at...': 'شروع از...',
 	'Start numbering at': 'شروع شماره‌گذاری از',
 	'Number for the first item': 'شماره‌ی نخستین مورد',
-	Close: 'بستن'
+	Close: 'بستن',
+	'Edit attributes': 'ویرایش ویژگی‌ها',
+	Element: 'عنصر',
+	'Attribute name': 'نام ویژگی',
+	'Attribute value': 'مقدار ویژگی',
+	'Add attribute': 'افزودن ویژگی',
+	'Invalid attribute name: %s': 'نام ویژگی نامعتبر است: %s'
 };

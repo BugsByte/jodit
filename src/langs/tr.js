@@ -235,5 +235,11 @@ module.exports = {
 	'Start at...': 'Başlangıç numarası...',
 	'Start numbering at': 'Numaralandırma başlangıcı',
 	'Number for the first item': 'İlk öğenin numarası',
-	Close: 'Kapat'
+	Close: 'Kapat',
+	'Edit attributes': 'Öznitelikleri düzenle',
+	Element: 'Öğe',
+	'Attribute name': 'Öznitelik adı',
+	'Attribute value': 'Öznitelik değeri',
+	'Add attribute': 'Öznitelik ekle',
+	'Invalid attribute name: %s': 'Geçersiz öznitelik adı: %s'
 };

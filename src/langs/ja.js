@@ -239,5 +239,11 @@ module.exports = {
 	'Start at...': '開始番号...',
 	'Start numbering at': '番号の開始値',
 	'Number for the first item': '最初の項目の番号',
-	Close: '閉じる'
+	Close: '閉じる',
+	'Edit attributes': '属性を編集',
+	Element: '要素',
+	'Attribute name': '属性名',
+	'Attribute value': '属性値',
+	'Add attribute': '属性を追加',
+	'Invalid attribute name: %s': '無効な属性名: %s'
 };

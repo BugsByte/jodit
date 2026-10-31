@@ -234,5 +234,11 @@ module.exports = {
 	'Start at...': 'Почати з...',
 	'Start numbering at': 'Почати нумерацію з',
 	'Number for the first item': 'Номер першого пункту',
-	Close: 'Закрити'
+	Close: 'Закрити',
+	'Edit attributes': 'Редагувати атрибути',
+	Element: 'Елемент',
+	'Attribute name': "Ім'я атрибута",
+	'Attribute value': 'Значення атрибута',
+	'Add attribute': 'Додати атрибут',
+	'Invalid attribute name: %s': "Неприпустиме ім'я атрибута: %s"
 };

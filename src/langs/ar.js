@@ -238,5 +238,11 @@ module.exports = {
 	'Start at...': 'البدء من...',
 	'Start numbering at': 'بدء الترقيم من',
 	'Number for the first item': 'رقم العنصر الأول',
-	Close: 'إغلاق'
+	Close: 'إغلاق',
+	'Edit attributes': 'تحرير السمات',
+	Element: 'العنصر',
+	'Attribute name': 'اسم السمة',
+	'Attribute value': 'قيمة السمة',
+	'Add attribute': 'إضافة سمة',
+	'Invalid attribute name: %s': 'اسم سمة غير صالح: %s'
 };
